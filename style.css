@@ -1,0 +1,82 @@
+/*
+*Name : Mahedavi Rakib
+*Student Number : 8981270
+*/
+
+body{
+    font: 20px;
+    background-color: goldenrod;
+    height: 10px;
+    width: 250px;
+}
+
+
+
+h2{
+    color: ;
+    font-size: 30px;
+}
+
+
+.structural{
+    padding: 20px;
+  border: 2px solid #333;
+  margin: 10px;
+}
+
+header{
+    background-color: hsl(20, 50%, 100%);
+    padding: 20px;
+}
+
+main {
+    background-color: hsl(120px, 50px, 80px);
+    float: left;
+    width: 70%;
+    padding: 10px;
+  }
+
+
+aside{
+    background-color: hsl(289, 40%, 60%);
+    float: inline-end;
+    width: 140px;
+    padding: 5px;
+    
+}
+
+
+footer{ 
+    background-color: hsl(60, 20%, 80%);
+    clear: both;
+    padding: 15px;
+}
+
+
+a:hover {
+    color: #550;
+}
+
+footer p{
+    font-size: 20px;
+}
+
+#p1{
+    color: rgb(222, 442, 785);
+    background-color: brown;
+    float: right;
+    width: 77px;
+    padding: 5px;
+}
+
+#p2{
+    color: rgb(0, 0, 820);
+    background-color: dimgray;
+}
+
+#p3{
+    color: rgb(0, 111, 0);
+    background-color:chartreuse;
+    float: inline-start;
+}
+
